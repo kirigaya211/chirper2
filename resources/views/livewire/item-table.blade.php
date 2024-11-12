@@ -5,7 +5,7 @@
 
 <div class="container mx-auto px-4 py-6">
     <!-- Center the heading -->
-    <h2 class="text-2xl font-bold mb-4 text-center text-white">Item Management</h2>
+    <h2 class="text-2xl font-bold mb-4 text-center text-white">Ministry Membership</h2>
 
     <!-- Display success message with theme color -->
     @if (session()->has('message'))
